@@ -149,3 +149,4 @@ c:\Users\gpaull\Source\ContosoUniversity\obj\Debug\netcoreapp3.0\Razor\Pages\Stu
 c:\Users\gpaull\Source\ContosoUniversity\obj\Debug\netcoreapp3.0\Razor\Pages\Students\Details.cshtml.g.cs
 c:\Users\gpaull\Source\ContosoUniversity\obj\Debug\netcoreapp3.0\Razor\Pages\Students\Edit.cshtml.g.cs
 c:\Users\gpaull\Source\ContosoUniversity\obj\Debug\netcoreapp3.0\Razor\Pages\Students\Index.cshtml.g.cs
+c:\Users\gpaull\Source\ContosoUniversity\obj\Debug\netcoreapp3.0\Razor\Pages\About.cshtml.g.cs
